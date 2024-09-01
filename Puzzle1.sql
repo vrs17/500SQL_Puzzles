@@ -1,1 +1,2 @@
-create * from 
+create database sql_500Puzzles
+
